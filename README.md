@@ -50,7 +50,3 @@ The dataset contains **38,576 rows** and **24 features** capturing borrower prof
 * **Borrower Info:** `annual_income`, `dti`, `emp_length`, `emp_title`, `home_ownership`, `address_state`
 * **Loan Info:** `loan_amount`, `term`, `int_rate`, `installment`, `grade`, `sub_grade`, `purpose`
 * **Status & Dates:** `loan_status`, `issue_date`, `last_payment_date`, `total_payment`
-* ## 🚀 How to Run
-1. Clone this repository:
-   cd Bank-Loan-Analysis
-pip install pandas numpy matplotlib seaborn plotly openpyxl
